@@ -1,7 +1,7 @@
 # DevSnap.js
 DevSnap.js is a JavaScript library for collecting device, browser, and user data for security, analytics, and access control.
 
-![DevSnap.js Overview](test/logo.jpg)
+![DevSnap.js Overview](test/logo.png)
 
 Hosted on GitHub: [https://github.com/asjayamal/DevSnapJs](https://github.com/asjayamal/DevSnapJs)
 
